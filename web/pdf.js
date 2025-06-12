@@ -1,0 +1,1 @@
+// Simulated content of pdf.js
