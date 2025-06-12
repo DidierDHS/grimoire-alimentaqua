@@ -1,1 +1,0 @@
-// Simulated content of viewer.js
