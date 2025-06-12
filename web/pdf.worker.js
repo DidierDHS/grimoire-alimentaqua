@@ -1,1 +1,0 @@
-// Contenu simulé de pdf.worker.js
